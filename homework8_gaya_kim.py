@@ -12,5 +12,5 @@ def make_sandwich(*ingredients):
 # Call the function two times with a different number of arguments. 
 # First function call
 make_sandwich("Turkey", "Cheese", "Lettuce")
-# Seond function call
+# Second function call
 make_sandwich("Salmon", "Onion", "Tomato", "Lettuce", "Cream cheese")
